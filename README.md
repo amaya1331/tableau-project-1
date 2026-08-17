@@ -1,4 +1,4 @@
-# 🎬 Netflix Movies & TV Shows — Tableau Dashboard
+ Netflix Movies & TV Shows — Tableau Dashboard
 
 An interactive **Netflix Movies & TV Shows Dashboard** built with **Tableau** to explore Netflix's content library through data visualization and business intelligence techniques.
 
@@ -9,13 +9,13 @@ Netflix has a large and diverse catalog of movies and TV shows. This project ana
 
 The dashboard helps users explore:
 
-* 🎥 Movies vs. TV Shows
-* ⭐ Content ratings
-* 📅 Release years
-* 🌍 Geographic distribution of content
-* 🎭 Genres and categories
-* 📊 Content growth over time
-* 🔎 Individual titles and their details
+ Movies vs. TV Shows
+ Content ratings
+ Release years
+ Geographic distribution of content
+ Genres and categories
+ Content growth over time
+ Individual titles and their details
 
 The project demonstrates how raw data can be transformed into an interactive and visually appealing business intelligence dashboard.
 
@@ -72,29 +72,29 @@ Tools & Technologies
 
 ---
 
-## 📊 Dashboard Features
+ Dashboard Features
 
-### 1. Movies vs. TV Shows
+ 1. Movies vs. TV Shows
 
 Shows the overall distribution of Netflix content between movies and television shows.
 
-### 2. Ratings Analysis
+ 2. Ratings Analysis
 
 Provides an overview of the different content ratings available in the dataset.
 
-### 3. Genre Analysis
+ 3. Genre Analysis
 
 Highlights popular categories and genres within the Netflix catalog.
 
-### 4. Release Year Analysis
+ 4. Release Year Analysis
 
 Shows how Netflix content has changed across different release years.
 
-### 5. Geographic Analysis
+ 5. Geographic Analysis
 
 Explores the countries associated with Netflix titles and identifies major content-producing regions.
 
-### 6. Interactive Filtering
+ 6. Interactive Filtering
 
 Users can interact with the dashboard to analyze specific content based on available filters such as:
 
